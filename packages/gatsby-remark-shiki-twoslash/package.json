@@ -22,7 +22,7 @@
   "dependencies": {
     "@typescript/twoslash": "1.1.2",
     "@typescript/vfs": "1.3.0",
-    "shiki": "^0.1.6",
+    "shiki": "^0.2.7",
     "shiki-languages": "^0.1.6",
     "shiki-twoslash": "0.8.1",
     "typescript": "*",
