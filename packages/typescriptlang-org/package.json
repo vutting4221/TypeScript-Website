@@ -21,7 +21,7 @@
   "dependencies": {
     "@babel/core": "^7.8.4",
     "@formatjs/intl-relativetimeformat": "^4.5.15",
-    "@mdx-js/mdx": "^1.5.5",
+    "@mdx-js/mdx": "^2.0.0",
     "@mdx-js/react": "^1.5.5",
     "@types/node-fetch": "^2.5.3",
     "@types/react-helmet": "^5.0.15",
