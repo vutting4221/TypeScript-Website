@@ -12,7 +12,7 @@
     "semi": true
   },
   "dependencies": {
-    "fs-jetpack": "^2.4.0",
+    "fs-jetpack": "^5.0.0",
     "streampub": "https://github.com/orta/streampub-1.git#ibooks",
     "ts-node": "*"
   }
